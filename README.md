@@ -1,1 +1,1 @@
-# SNETICT.github.io
+# snetict.github.io
